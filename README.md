@@ -1,8 +1,8 @@
-Link al cv :
+Link al cv : https://fairbreakpg.github.io/
 
 Link de repositorios forkeados:
 
 
-1.
+1.https://github.com/FairBreakPG/ProyectoCV
 
 2.
