@@ -5,4 +5,4 @@ Link de repositorios forkeados:
 
 1.https://github.com/FairBreakPG/ProyectoCV
 
-2.
+2.https://linaroge.github.io/ProyectoCV/
